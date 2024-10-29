@@ -1,0 +1,6 @@
+server:
+  port: 7070
+
+llm:
+  baseUrl: "https://api.deepseek.com/v1/chat/completions"
+  apiKey: "sk-7e4f544aa9de400f9291fe8beb95e3d1"
