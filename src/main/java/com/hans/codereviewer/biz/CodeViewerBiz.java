@@ -13,6 +13,9 @@ public class CodeViewerBiz {
 
     public void codeReview(String gitContent) {
         log.info("codeReview start");
+        log.info("codeReview start");
+        log.info("codeReview start");
+        log.info("codeReview start");
     }
 
 }
